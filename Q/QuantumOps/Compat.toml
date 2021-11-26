@@ -1,0 +1,9 @@
+[0]
+ILog2 = "0.2.2-0.2"
+IsApprox = "0.1"
+Literate = "2"
+Requires = "1"
+StaticArrays = "1"
+StatsBase = "0.33"
+ThreadsX = "0.1"
+julia = "1"

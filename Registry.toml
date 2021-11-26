@@ -5,3 +5,4 @@ description = "A few quantum packages"
 
 [packages]
 8d55b643-9899-48dd-ae5e-3f792c55f725 = { name = "QiskitQuantumInfo", path = "Q/QiskitQuantumInfo" }
+d0cc4389-ef80-471f-8a8c-dd305d114ada = { name = "QuantumOps", path = "Q/QuantumOps" }
