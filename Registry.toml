@@ -1,0 +1,6 @@
+name = "QuantumRegistry"
+uuid = "284f5efa-4f8a-42cb-83fd-c2613f18f741"
+repo = "git@github.com:jlapeyre/QuantumRegistry.git"
+description = "A few quantum packages"
+
+[packages]
