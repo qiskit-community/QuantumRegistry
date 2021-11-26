@@ -1,0 +1,13 @@
+[0]
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+FastBroadcast = "7034ab61-46d4-4ed7-9d0f-46aef9175898"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+PeriodicTable = "7b2266bf-644c-5ea3-82d8-af4bbd25a884"
+PkgVersion = "eebad327-c553-4316-9ea0-9fa01ccd7688"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
+Requires = "ae029012-a4dd-5104-9daa-d747884805df"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+Tullio = "bc48ee85-29a4-5162-ae0b-a64e1601d4bc"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
+ZChop = "8603256b-76ad-53fe-b511-38a38e6437cd"
