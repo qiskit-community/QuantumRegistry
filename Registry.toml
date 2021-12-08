@@ -4,6 +4,7 @@ repo = "git@github.com:jlapeyre/QuantumRegistry.git"
 description = "A few quantum packages"
 
 [packages]
+14ae0224-3a94-4a0c-83bc-25b293227ef3 = { name = "ElectronicStructurePySCF", path = "E/ElectronicStructurePySCF" }
 7d983096-c313-11eb-0b95-579bee092dbe = { name = "SparseArraysN", path = "S/SparseArraysN" }
 8d55b643-9899-48dd-ae5e-3f792c55f725 = { name = "QiskitQuantumInfo", path = "Q/QiskitQuantumInfo" }
 d0cc4389-ef80-471f-8a8c-dd305d114ada = { name = "QuantumOps", path = "Q/QuantumOps" }
