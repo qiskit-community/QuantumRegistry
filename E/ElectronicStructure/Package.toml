@@ -1,3 +1,3 @@
 name = "ElectronicStructure"
 uuid = "f7ec468b-4310-4c77-90aa-f73697106762"
-repo = "git@github.com:Qiskit-Extensions/ElectronicStructure.jl.git"
+repo = "https://github.com/Qiskit-Extensions/ElectronicStructure.jl"
