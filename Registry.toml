@@ -5,4 +5,5 @@ description = "Registry for quantum packages at IBM Quantum"
 
 [packages]
 721cb36f-8cdb-4047-ab39-84aff8fc02a4 = { name = "QiskitRuntime", path = "Q/QiskitRuntime" }
+c4c67b59-b612-4a28-8b47-1c875e8dafd5 = { name = "Phase4s", path = "P/Phase4s" }
 e8214510-4556-46a5-b53f-72884ec25a2d = { name = "PauliStrings2", path = "P/PauliStrings2" }
