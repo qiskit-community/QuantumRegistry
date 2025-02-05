@@ -1,0 +1,6 @@
+[0]
+CondaPkg = "992eb4ea-22a4-4c89-a5bb-47a3300528ab"
+PauliStrings2 = "e8214510-4556-46a5-b53f-72884ec25a2d"
+PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
+QiskitRuntime = "721cb36f-8cdb-4047-ab39-84aff8fc02a4"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
