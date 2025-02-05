@@ -1,3 +1,4 @@
 name = "QiskitRuntime"
 uuid = "721cb36f-8cdb-4047-ab39-84aff8fc02a4"
-repo = "git@github.com:jlapeyre/QiskitRuntime.jl.git"
+repo = "git@github.com:jlapeyre/QiskitRuntime.jl"
+
