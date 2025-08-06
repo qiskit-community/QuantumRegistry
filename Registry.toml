@@ -1,7 +1,7 @@
 name = "QuantumRegistry"
 uuid = "5f195947-843e-46b9-be48-88eed66c320e"
-repo = "git@github.ibm.com/John-Lapeyre/QuantumRegistry"
-description = "Registry for quantum packages at IBM Quantum"
+repo = "git@github.com/qiskit-community/QuantumRegistry"
+description = "Registry for quantum packages at qiskit-community"
 
 [packages]
 721cb36f-8cdb-4047-ab39-84aff8fc02a4 = { name = "QiskitRuntime", path = "Q/QiskitRuntime" }
